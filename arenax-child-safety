@@ -1,0 +1,154 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ArenaX - Child Safety Standards</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f7fa;
+            color: #1e293b;
+            line-height: 1.7;
+            margin: 0;
+        }
+        header {
+            background: #0f172a;
+            color: white;
+            text-align: center;
+            padding: 35px 15px;
+        }
+        header h1 { margin-bottom: 5px; }
+        main {
+            max-width: 850px;
+            margin: 30px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 10px;
+        }
+        h2 { color: #0f766e; margin-top: 28px; }
+        a { color: #0f766e; }
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #64748b;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>ArenaX</h1>
+    <p>Child Safety Standards & Protection Policy</p>
+</header>
+
+<main>
+
+<p><strong>Last Updated:</strong> November 21, 2026</p>
+
+<h2>1. About ArenaX</h2>
+<p>
+ArenaX is a gaming and social media platform where users can
+create profiles, share gaming-related posts, upload images,
+and interact with other members of the gaming community.
+ArenaX is intended for users aged 14 and above.
+</p>
+
+<h2>2. Zero-Tolerance Policy Against CSAE</h2>
+<p>
+ArenaX has zero tolerance for Child Sexual Abuse and Exploitation
+(CSAE). Any content or behaviour that sexually exploits, abuses,
+grooms, threatens, or endangers minors is strictly prohibited.
+</p>
+<p>
+Users must not create, upload, share, request, or distribute
+Child Sexual Abuse Material (CSAM) through ArenaX.
+Such content is prohibited regardless of whether it is presented
+as a photograph, video, illustration, or other media.
+</p>
+
+<h2>3. Prohibited Activities</h2>
+<ul>
+    <li>Sharing or distributing CSAM.</li>
+    <li>Sexual exploitation or grooming of minors.</li>
+    <li>Sexual threats, sextortion, or blackmail involving minors.</li>
+    <li>Soliciting sexual images or personal information from minors.</li>
+    <li>Harassment, abuse, or threats directed at minors.</li>
+    <li>Content that encourages or facilitates child exploitation.</li>
+</ul>
+
+<h2>4. Reporting Child Safety Concerns</h2>
+<p>
+Users can report inappropriate content, accounts, or behaviour
+through the reporting features available within ArenaX.
+Users can also contact our child safety team directly by email:
+</p>
+<p>
+<strong>Email:</strong>
+<a href="mailto:pankajsharma200051@gmail.com">
+pankajsharma200051@gmail.com
+</a>
+</p>
+<p>
+Reports should include relevant details about the account or
+content involved. Please do not download, forward, or redistribute
+suspected CSAM as evidence.
+</p>
+
+<h2>5. Moderation and Enforcement</h2>
+<p>
+ArenaX reviews child safety reports and takes appropriate action
+when violations are identified. Actions may include:
+</p>
+<ul>
+    <li>Removing prohibited content.</li>
+    <li>Restricting or suspending violating accounts.</li>
+    <li>Terminating accounts involved in serious violations.</li>
+    <li>Taking appropriate action under applicable laws.</li>
+</ul>
+<p>
+ArenaX does not tolerate the creation, storage, or distribution
+of CSAM on its platform. We take appropriate action when we
+obtain actual knowledge of such material.
+</p>
+
+<h2>6. Compliance With Child Safety Laws</h2>
+<p>
+ArenaX is committed to complying with applicable child safety
+laws and regulations. Confirmed cases of child sexual abuse
+material will be handled in accordance with applicable legal
+requirements, including reporting to the relevant regional
+or national authorities where required.
+</p>
+
+<h2>7. Child Safety Contact</h2>
+<p>
+For child safety concerns, CSAE reports, or questions about
+our prevention and moderation practices, contact our
+designated child safety representative:
+</p>
+<p>
+<strong>Contact:</strong> ArenaX Child Safety Team<br>
+<strong>Email:</strong>
+<a href="mailto:pankajsharma200051@gmail.com">
+pankajsharma200051@gmail.com
+</a>
+</p>
+
+<h2>8. Our Commitment</h2>
+<p>
+ArenaX is committed to maintaining a respectful gaming and
+social community. We continuously work to improve our safety
+practices and protect users from abuse, exploitation, and
+harmful interactions.
+</p>
+
+</main>
+
+<footer>
+    &copy; 2026 ArenaX. All Rights Reserved.
+</footer>
+
+</body>
+</html>
